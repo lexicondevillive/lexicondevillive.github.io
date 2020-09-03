@@ -1,8 +1,8 @@
+---
+layout: default
+---
 
-layout: page
-title: "Contact"
-permalink: /contact/
 
 
-lexicondevillive --at-- outlook odt com
+lexicondevillive at outlook odt com
 
