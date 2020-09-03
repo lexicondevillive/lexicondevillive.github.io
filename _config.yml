@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-tactile
 title: LEXICON DEVIL
 description: the world is our aim
 markdown: kramdown
