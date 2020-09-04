@@ -6,7 +6,7 @@ date: 2020-09-03 15:00
 permalink: /index.html
 
 ---
-[contact](/contact/)
+[contact](https://lexicondevillive.github.io/contact/)
 ### Website
 
 ## Website?
