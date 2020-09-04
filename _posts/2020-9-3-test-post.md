@@ -1,9 +1,4 @@
 
----
-
-layout: post
-
----
 
 # testing
 
